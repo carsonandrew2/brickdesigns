@@ -35,7 +35,7 @@ of those sections to manage the look and feel of the site. */
     height: 100%;
     padding-top: 150px;
     text-align: center;
-    background-image: url("Legos.png");
+    background-image: url("legos.png");
     background-repeat: no-repeat;
     background-position: right top;
     background-attachment: fixed;
