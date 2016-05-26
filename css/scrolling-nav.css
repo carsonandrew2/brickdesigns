@@ -35,7 +35,7 @@ of those sections to manage the look and feel of the site. */
     height: 100%;
     padding-top: 150px;
     text-align: center;
-    background-image: url("legos.png");
+    background-image: url("https://github.com/carsonandrew2/brickdesigns/blob/gh-pages/legos.png?raw=true");
     background-repeat: no-repeat;
     background-position: right top;
     background-attachment: fixed;
