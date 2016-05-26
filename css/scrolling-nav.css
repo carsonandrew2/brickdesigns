@@ -36,9 +36,11 @@ of those sections to manage the look and feel of the site. */
     padding-top: 150px;
     text-align: center;
     background-image: url("https://github.com/carsonandrew2/brickdesigns/blob/gh-pages/legos.png?raw=true");
+    background-image: url("https://github.com/carsonandrew2/brickdesigns/blob/gh-pages/background_stripe.png?raw=true");
     background-repeat: no-repeat;
-    background-position: right top;
+    background-position: right bottom;
     background-attachment: fixed;
+    background-size: 100%;
 }
 
 .about-section {
