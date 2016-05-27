@@ -145,7 +145,10 @@ textarea {
 .submit:hover {
     background-color: #b32d00;
 }
-
+.socials {
+    margin-left: 70%;
+    background-color: #1a1a1a;
+}
 
 
 
