@@ -84,7 +84,7 @@ of those sections to manage the look and feel of the site. */
     margin-right: 20%;
     border-top-color: white;
     border-width: 2px;
-    border-top-style: solid;
+    border-top-style: dashed;
     margin-top: 5%;
     padding-top: 5%;
 }
