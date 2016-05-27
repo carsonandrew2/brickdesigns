@@ -138,7 +138,7 @@ textarea {
     display: block;
     border: none;
     padding: .5em;
-    float: left;
+    
     transition-duration: .2s;
 }
 .submit:hover {
