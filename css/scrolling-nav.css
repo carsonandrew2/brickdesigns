@@ -103,7 +103,19 @@ of those sections to manage the look and feel of the site. */
 .message {
     margin-bottom: 4%;
 }
-input [type="text"] {
+.name {
+    background-color: #e7e7e7;
+    border-radius: 5px;
+    width: 70%;
+    padding: 2em;
+}
+.subject {
+    background-color: #e7e7e7;
+    border-radius: 5px;
+    width: 70%;
+    padding: 2em;
+}
+.email {
     background-color: #e7e7e7;
     border-radius: 5px;
     width: 70%;
@@ -115,11 +127,12 @@ textarea {
     width: 70%;
     padding: 2em;
 }
-input [type="submit"] {
+.submit {
     border-radius: 5px;
     color: white;
     background-color: #cc3300;
     width: 70%;
+    display: block;
 }
 
 
