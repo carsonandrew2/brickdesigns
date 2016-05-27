@@ -88,8 +88,15 @@ of those sections to manage the look and feel of the site. */
     margin-top: 5%;
     padding-top: 5%;
 }
-
-
+.name {
+    margin-bottom: 4%;
+}
+.email {
+    margin-bottom: 4%;
+}
+.subject {
+    margin-bottom: 4%;
+}
 
 
 
