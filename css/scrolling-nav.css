@@ -139,7 +139,7 @@ textarea {
     border: none;
     padding: .5em;
     margin-top: 4%;
-    margin-left: 10%;
+    margin-left: 15%;
     transition-duration: .2s;
 }
 .submit:hover {
