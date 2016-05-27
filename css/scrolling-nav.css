@@ -55,7 +55,9 @@ of those sections to manage the look and feel of the site. */
     background-attachment: fixed;
     background-size: 100%;
 }
-
+.logo {
+    margin-left: 2em;
+}
 .about-section {
     height: 100%;
     padding-top: 150px;
