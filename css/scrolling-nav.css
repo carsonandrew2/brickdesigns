@@ -30,14 +30,28 @@ html {
 /* Demo Sections - You can use these as guides or delete them - the scroller will work with any sort of height, fixed, undefined, or percentage based.
 The padding is very important to make sure the scrollspy picks up the right area when scrolled to. Adjust the margin and padding of sections and children 
 of those sections to manage the look and feel of the site. */
-
+@media only screen and (max-width: 1440px) {
+    .intro-section {
+        background-position-y: 90%
+    }
+}
+@media only screen and (max-width: 768px) {
+    .intro-section {
+        background-position-y: 70%
+    }
+}
+@media only screen and (max-width: 414px) {
+    .intro-section {
+        background-position-y: 50%
+    }
+}
 .intro-section {
     height: 100%;
     padding-top: 150px;
     text-align: center;
     background-image: url("https://github.com/carsonandrew2/brickdesigns/blob/gh-pages/legos.png?raw=true");
     background-repeat: no-repeat;
-    background-position: right bottom;
+    background-position-x: 50%;
     background-attachment: fixed;
     background-size: 100%;
 }
@@ -62,3 +76,12 @@ of those sections to manage the look and feel of the site. */
     text-align: center;
     background: #333333;
 }
+
+
+
+
+
+
+
+
+
