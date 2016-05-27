@@ -108,24 +108,28 @@ of those sections to manage the look and feel of the site. */
     border-radius: 5px;
     width: 70%;
     padding: .5em;
+    color: black;
 }
 .subject {
     background-color: #e7e7e7;
     border-radius: 5px;
     width: 70%;
     padding: .5em;
+    color: black;
 }
 .email {
     background-color: #e7e7e7;
     border-radius: 5px;
     width: 70%;
     padding: .5em;
+    color: black;
 }
 textarea {
     background-color: #e7e7e7;
     border-radius: 5px;
     width: 70%;
     padding: .5em;
+    color: black;
 }
 .submit {
     border-radius: 5px;
@@ -133,6 +137,8 @@ textarea {
     background-color: #cc3300;
     display: block;
     margin-left: 50%;
+    border: none;
+    padding: .5em;
 }
 
 
