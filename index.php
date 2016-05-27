@@ -111,7 +111,7 @@
                     <h1>Contact Us</h1>
                     <p>Email BrickDesigns</p>
                     <div class="line">
-                    <form>
+                    <form action="index.php">
                         <p>Your Full Name</p>
                         <input class="name" type="text" name="name_input">
                         <p>Your Email</p>
@@ -121,7 +121,7 @@
                         <p>Your Message</p>
                         <textarea class=".message" name="message" rows="10" cols="30">
                         </textarea>
-                        <input class="submit" type="submit" value="send">
+                        <input class="submit" type="submit" value="Send">
                     </form>
                     </div>
                 </div>
