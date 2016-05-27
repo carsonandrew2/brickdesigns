@@ -79,7 +79,12 @@ of those sections to manage the look and feel of the site. */
     background: #333333;
     color: white;
 }
-
+.line {
+    margin-left: 20%;
+    margin-right: 20%;
+    border-top-color: white;
+    border-width: 2px;
+}
 
 
 
