@@ -146,9 +146,15 @@ textarea {
     background-color: #b32d00;
 }
 .socials {
-    margin-left: 70%;
+    margin-left: 60%;
+    margin-top: 2em;
     background-color: #1a1a1a;
+    padding-bottom: 3em;
+    padding-top: 3em;
+    padding-left: 2em;
+    padding-right: 2em;
 }
+
 
 
 
