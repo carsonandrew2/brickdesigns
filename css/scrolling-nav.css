@@ -130,6 +130,20 @@ textarea {
     padding: .5em;
     color: black;
 }
+.submit_2 {
+    border-radius: 5px;
+    color: white;
+    background-color: #cc3300;
+    display: block;
+    border: none;
+    padding: 1em;
+    margin-top: 4%;
+    margin-left: 15%;
+    transition-duration: .2s;
+}
+.submit_2:hover {
+    background-color: #b32d00;
+}
 .submit {
     border-radius: 5px;
     color: white;
